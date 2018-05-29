@@ -1,7 +1,6 @@
 ## Project Intro
 
-...
-
+Microsoft Bot Framework, Reverse Connection Architecture Example. This project represents an example of how an externally hosted bot could be used along with an service utilizing a reverse connection design to pass data between the internal service and clients connecting to the external bot service.
 
 ## Project Features
 
